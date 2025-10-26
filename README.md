@@ -13,7 +13,7 @@
 
 ## 📸 Screenshot
 
-![Project Preview](https://github.com/rakib1808/Hello-Js/blob/main/docs/screenshot.png/screenshot.png)
+![Project Preview](https://github.com/rakib1808/Hello-Js/blob/main/docs/screenshot.png/screenshot.png) ![Project Preview](https://github.com/rakib1808/Hello-Js/blob/main/docs/screenshot.png/screenshot1.png)
 
 ---
 
