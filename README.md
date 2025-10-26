@@ -40,7 +40,7 @@
 
 1. Clone the repository:
    ```bash
-   Git Clone link: https://github.com/rakib1808/Hello-Js.git
+   Git Clone https://github.com/rakib1808/Hello-Js.git
 
 
 
