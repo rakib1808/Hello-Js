@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo & Repository
 
-- 🧭 **Repository Link:** [Hello-Js Repository](https://github.com/rakib1808/Hello-Js)
+- 🧭 **Repository Link:** [Hello-Js Repository](https://github.com/rakib1808/Hello-Js/tree/main/project-files)
 - 🌍 **Live Demo:** [View Live Site](https://rakib1808.github.io/Hello-Js)
 
 ---
